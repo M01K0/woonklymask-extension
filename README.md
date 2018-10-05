@@ -74,6 +74,83 @@ npm run dist
 
 To write tests that will be run in the browser using QUnit, add your test files to `test/integration/lib`.
 
+##Content
+* Technologies used
+* SDK interaction
+* Tour
+* Faucet
+* Exchange
+* Tokens
+* Send
+* Sell
+* Deposit
+* Remove
+* Orders Book
+* Chart
+* Trade history
+* Web3 interface
+* Gas function
+
+## Technologies used
+
+## SDK Interaction
+Woonkly will be able to web pages to use their pages to distribute advertising along
+with Woonks Catching, this interaction can be used in any web page. Only Woonkly user can
+catch Woonks.
+
+## Tour
+In the Woonkly Mask´s extension will appear a little introduction when installed, this
+introduction will show users  how to handle the browser extension and its parts.
+
+## Faucet
+Woonkly will provide free Woonks to users, this will enhance user´s motivation investing
+in our project.
+
+## Exchange
+The browser extension of WoonklyMask has an exchange where users may interact with traders to exchange coins with tokens.
+
+## Tokens
+All transactions of token completed and denied are shown in
+Token's section, users will be able to see the amount per transaction and its date.
+
+## Send
+Users can send tokens to a wallet, it is necessary to write down
+the amount of Woonks and Price, so it will appear total amount of
+Ether used. And expiration is also a requirement that has to be
+specified.
+
+## Sell
+Users need to specify the amount, price and expiration of transaction, so it could be done.
+
+## Deposit
+This section allows users to deposit Woonks to Woonkly's token
+to interact with traders in the decentralized exchange.
+
+## Remove
+This section allows users to remove  Woonks from Woonkly's token
+that is used to interact with traders in the decentralized exchange.
+
+## Order's book
+Users will be able to see all orders listed in Order's book
+section, along with info over orders made.
+
+## Chart
+This section contains a chart that shows current price of Woonk,
+the price on its opening and ending per block number. Also handles
+volume information, and opening and ending volume per block number.
+
+## Trade history
+All trading info will be displayed in this sections where its
+sections will show date of transaction, type of transaction, BID
+and total.
+
+## Web3 Interface
+
+## Gas function
+Users can set GAS amount of running transactions or contract
+through Ethereum blockchain.
+
+
 ## Other Docs
 
 - [How to add custom build to Chrome](./docs/add-to-chrome.md)
